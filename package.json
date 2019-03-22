@@ -1,8 +1,7 @@
 {
-  "name": "luke",
+  "name": "skywalker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vsvinicius.github.io/luke",
   "dependencies": {
     "mssql": "latest",
     "react": "^16.4.1",
